@@ -167,4 +167,4 @@ VSСode дает возможность выбрать какое изменен
 7. копируем сторонний репозиторий при помощи команды git clone < ссылка на репозиторий из пункта 4 > 
 8. В отдельной ветке вносим необходимые дополнения
 9. При помощи команды git push отправляем данные в увленный репозиторий
-10. Нажимаем на Github на кнопку "Compare and pull request" либо "Open pull request", нажимаем на "Create pull request"
+10. Нажимаем на Github на кнопку "Compare and pull request" либо "Open pull request", нажимаем на "Create pull request".
