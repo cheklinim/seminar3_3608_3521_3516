@@ -125,9 +125,13 @@ VSСode дает возможность выбрать какое изменен
 Для подключения репозитория на локальном ПК с псевдонимом origin:
 
     git remote add origin https://github.com/sysPeshkov/test.git
+
+Для создания в удаленном репозитории ветки, используйте команду:
+
+    git branch -M master
+
     
-git branch -M main
-git push -u origin main
+git push -u origin master
 
 ### Подключение репозитория
 Для того, чтобы подтянуть новый репозиторий с gitHub, также можно воспользоваться командой:
