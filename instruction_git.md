@@ -120,8 +120,12 @@ VSСode дает возможность выбрать какое изменен
 Удаленный репоиторий это облачное хранилище ваших файлов.
 
 ### Новый репозиторий
+После того, как вы создали новый репозиторий, gitHub предлагает использовать следующие команды:
 
-git remote add origin https://github.com/sysPeshkov/test.git
+Для подключения репозитория на локальном ПК с псевдонимом origin:
+
+    git remote add origin https://github.com/sysPeshkov/test.git
+    
 git branch -M main
 git push -u origin main
 
