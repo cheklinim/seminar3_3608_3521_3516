@@ -126,3 +126,9 @@ VSСode дает возможность выбрать какое изменен
     git remote add origin https://github.com/Maksim-Molyanov/<name_repositiry.git>
 
 Где "remote" это ссылание на уделенный репозиторий, а "add origin" это источника по ссылки.
+
+## Изменение наименования главной ветки
+
+    git branch -M <nama_branch>
+
+Где "-M" задает главную ветку.
