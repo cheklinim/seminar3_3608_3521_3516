@@ -122,8 +122,8 @@ VSСode дает возможность выбрать какое изменен
 
 Три команды с GitHub которые нужны для переноса репозитория с локального компьютера в сеть 
 
-    git remote add origin https://github.com/dimitrizz/11.git
+    git remote add origin "ссылка на репо"
 
     git branch -M main
-    
+
     git push -u origin main
