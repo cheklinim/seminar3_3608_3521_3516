@@ -119,3 +119,11 @@ VSСode дает возможность выбрать какое изменен
 
 Удаленный репозиторий это облачное хранилище ваших файлов.
 
+
+Три команды с GitHub которые нужны для переноса репозитория с локального компьютера в сеть 
+
+    git remote add origin https://github.com/dimitrizz/11.git
+
+    git branch -M main
+    
+    git push -u origin main
